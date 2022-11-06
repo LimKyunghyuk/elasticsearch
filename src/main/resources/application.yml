@@ -1,0 +1,9 @@
+#server:
+#  port: 8003
+#
+#elasticsearch:
+#  host: 192.168.25.9
+#  port: 9200
+#  indecies:
+#    studentsIndexName: students
+#    testIndexName: tests
